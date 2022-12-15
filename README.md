@@ -1,5 +1,7 @@
 # FinalECE160Project
 
+Credits for the 3D models we used:    
+
 Key by Poly by Google [CC-BY] via Poly Pizza    
 door by Potential Synergy [CC-BY] via Poly Pizza    
 Door mat by Poly by Google [CC-BY] via Poly Pizza   
